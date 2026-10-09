@@ -1,4 +1,4 @@
-```html
+html
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
@@ -114,4 +114,4 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nic-mwh/Nic-mwh/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-```
+
