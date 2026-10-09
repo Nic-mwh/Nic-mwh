@@ -1,3 +1,23 @@
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="assets/light.svg">
+    <img
+      src="assets/dark.svg"
+      alt="Mehdi Ghasemi — Backend Developer"
+      width="100%">
+  </picture>
+</p>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 
